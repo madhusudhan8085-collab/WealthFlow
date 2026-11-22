@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Growth Area Gradient Glow Effect Behind -->
+    <path
+        android:fillColor="#1510B981"
+        android:pathData="M 30,76 L 30,68 C 42,66 52,58 62,48 L 74,36 L 78,40 L 78,76 Z" />
+
+    <!-- Upward Trend Line / Flow Wave -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10B981"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 28,70 C 40,68 50,60 62,48 L 76,34" />
+
+    <!-- Growth Arrowhead -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 78,32 L 68,34 L 74,40 Z" />
+
+    <!-- Rupee / Coin Symbol Motif -->
+    <!-- Top Bar -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M 38,36 L 52,36" />
+    <!-- Second Bar -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M 38,42 L 50,42" />
+    <!-- R Loop and Down Leg -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 44,36 L 44,48 C 48,48 51,46 51,43 C 51,40 48,39 44,39 L 41,39 M 44,48 L 52,60" />
+
+    <!-- Glowing Node Dots along the curve -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M 28,70 m -2.5,0 a 2.5,2.5 0 1,0 5,0 a 2.5,2.5 0 1,0 -5,0" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M 48,60 m -2.5,0 a 2.5,2.5 0 1,0 5,0 a 2.5,2.5 0 1,0 -5,0" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M 64,46 m -3,0 a 3,3 0 1,0 6,0 a 3,3 0 1,0 -6,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 76,34 m -3.5,0 a 3.5,3.5 0 1,0 7,0 a 3.5,3.5 0 1,0 -7,0" />
+
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "WealthFlow",
+  "description": "Advanced SIP & SWP calculator with step-up, inflation-adjusted goal planning, corpus sustainability, and sensitivity analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
